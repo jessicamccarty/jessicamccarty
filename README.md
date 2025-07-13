@@ -21,8 +21,6 @@ Python
 
 ## FEATURED PROJECTS:
 
-Github: https://www.github.com/jessicamccarty/
-LinkedIn: https://www.linkedin.com/in/jessica-mccarty-56b202177/
 <!--
 **jessicamccarty/jessicamccarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
