@@ -1,9 +1,25 @@
 ## ABOUT ME: 
 
-Full-time Mama | Future Machine Learning Engineer
+Hi! My name is Jessica, mom, wife, and a future Machine Learning Engineer studying at Atlas School in Tulsa, Oklahoma. Included in my hub, you will find projects both personal and academic. 
 
+Currently Exploring: Front-End Design
 
-## SOCIALS:
+Find me here: 
+Github: https://www.github.com/jessicamccarty/
+LinkedIn: https://www.linkedin.com/in/jessica-mccarty-56b202177/
+
+## SKILLS:
+
+Project Management
+
+## LANAGUAGES:
+
+Bash
+C
+HTML/CSS
+Python
+
+## FEATURED PROJECTS:
 
 Github: https://www.github.com/jessicamccarty/
 LinkedIn: https://www.linkedin.com/in/jessica-mccarty-56b202177/
