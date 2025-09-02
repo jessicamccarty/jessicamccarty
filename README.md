@@ -2,7 +2,7 @@
 
 Hi! My name is Jessica, mom, wife, and a future Machine Learning Engineer studying at Atlas School in Tulsa, Oklahoma. Included in my hub, you will find projects both personal and academic. 
 
-Currently Exploring: Front-End Design
+Currently Exploring: Intermediate Procedural Programming
 
 Find me here: 
 Github: https://www.github.com/jessicamccarty/
