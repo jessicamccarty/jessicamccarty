@@ -1,37 +1,43 @@
-## ABOUT ME: 
+# 👋 About Me  
 
-Hi! My name is Jessica, mom, wife, and a future Machine Learning Engineer studying at Atlas School in Tulsa, Oklahoma. Included in my hub, you will find projects both personal and academic. 
+Hi, I’m **Jessica McCarty** — a mom, wife, and aspiring **Machine Learning Engineer** currently studying at **Atlas School in Tulsa, Oklahoma**.  
 
-Currently Exploring: Intermediate Procedural Programming and Professional Communications
+I’m passionate about technology and problem-solving, and I love building projects that bridge what I’m learning in class with real-world applications. My GitHub is a mix of **academic projects** and **personal experiments**, documenting my journey into software and data.  
 
-Find me here: 
-Github: https://www.github.com/jessicamccarty/
-LinkedIn: https://www.linkedin.com/in/jessica-mccarty-56b202177/
+When I’m not coding, you’ll usually find me balancing family life, exploring new learning opportunities, or working on creative side projects.  
 
-## SKILLS:
+---
 
-Project Management
+## 🎯 Goals  
+- Build a strong foundation in **machine learning, AI, and data science**  
+- Gain experience through academic and personal projects  
+- Contribute to **open-source projects** and collaborate with the developer community  
+- Grow into a **Machine Learning Engineer role** where I can apply my skills to solve real-world problems  
 
-## LANAGUAGES:
+---
 
-Bash
-C
-HTML/CSS
-Python
+## 🎓 Currently Learning  
+- **Intermediate Procedural Programming**  
+- **Professional Communications**  
+- Core concepts that lead into **AI & Machine Learning**  
 
-## FEATURED PROJECTS:
+---
 
-<!--
-**jessicamccarty/jessicamccarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills  
+- **Project Management**  
+- Problem-Solving & Debugging  
+- Team Collaboration & Communication  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Languages & Tools  
+- **Python** 🐍  
+- **C**  
+- **Bash / Shell Scripting**  
+- **HTML & CSS**  
+
+---
+
+## 📫 Let’s Connect  
+- [**GitHub**](https://www.github.com/jessicamccarty/)  
+- [**LinkedIn**](https://www.linkedin.com/in/jessica-mccarty-56b202177/)  
