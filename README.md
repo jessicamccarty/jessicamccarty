@@ -23,21 +23,29 @@ When I’m not coding, you’ll usually find me balancing family life, exploring
 
 ---
 
-## 🛠 Skills  
-- **Project Management**  
-- Problem-Solving & Debugging  
-- Team Collaboration & Communication  
+## 🛠 Skills & Tools  
+- **Programming & Debugging** – C, Python 🐍, Bash  
+- **Web Development Basics** – HTML & CSS  
+- **Version Control** – Git and GitHub  
+- **Linux & Command Line** – navigation, scripting, and file handling  
+- **Project Management** – organizing tasks, timelines, and deliverables  
+- **Technical Communication** – clear documentation, bug reports, and project updates  
+- **Collaboration & Teamwork** – working effectively in group projects and peer learning environments  
+- **Problem-Solving** – breaking down challenges into manageable steps and applying logical solutions  
 
----
+### 🧩 Tech Stack (Badges)  
 
-## 💻 Languages & Tools  
-- **Python** 🐍  
-- **C**  
-- **Bash / Shell Scripting**  
-- **HTML & CSS**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
 ## 📫 Let’s Connect  
-- [**GitHub**](https://www.github.com/jessicamccarty/)  
-- [**LinkedIn**](https://www.linkedin.com/in/jessica-mccarty-56b202177/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/jessicamccarty/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-mccarty-56b202177/)  
